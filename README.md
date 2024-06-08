@@ -1,7 +1,7 @@
 #
 <p>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=kwhproject&show_icons=true&theme=radical">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhproject&show_icons=true&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kwhproject&show_icons=true&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhproject&show_icons=true&theme=radical">
 </p>
 
 #
